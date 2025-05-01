@@ -12,7 +12,7 @@ RUN apk add --no-cache \
 # Environments
 ENV PUID=911
 ENV PGID=911
-ENV TZ='Asia/Seoul'
+ENV TZ='Europe/Berlin'
 ENV HTPASSWD='false'
 ENV HTPASSWD_USER='guest'
 ENV HTPASSWD_PW=''
